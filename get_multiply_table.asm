@@ -1,5 +1,5 @@
 #esse procedimento retona um endereco de vetor de tamanho 10 e nao
-#imprime algum valor na tela. O retorno da funcao eh colocado no vetor passado no argumento 1
+#imprime nenhum valor na tela. O retorno da funcao eh colocado no vetor passado no argumento 1
 #@argumentos :
 	#$a0: numero que indica qual a tabuada a ser retornada
 	#$a1: vetor no qual  a tabuada sera colocada
